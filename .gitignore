@@ -1,0 +1,27 @@
+# Compiler files
+cache/
+out/
+
+# Commonly ignored directories
+.logs/
+.ignore/
+
+# Foundry deployment files
+broadcast/
+
+# Docs
+docs/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Local secrets and keys
+*.pem
+*.key
+keystore/
+keystores/
+
+# Local editor files
+.vscode/
