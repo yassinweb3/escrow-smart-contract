@@ -25,3 +25,9 @@ keystores/
 
 # Local editor files
 .vscode/
+# Node.js dependencies
+node_modules/
+frontend/node_modules/
+
+# Frontend build output
+frontend/dist/
